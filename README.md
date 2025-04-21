@@ -1,16 +1,51 @@
-## Hi there 👋
+## 👋 Salut et bienvenue sur mon GitHub !
 
-<!--
-**BACHPYTHON/BACHPYTHON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je m'appelle Guillaume, je suis actuellement en formation pour devenir **Développeur d'Applications Python Full-Stack** chez [Studi](https://www.studi.com), avec une passion grandissante pour la **tech**, l'**innovation** et le **développement de solutions utiles et durables**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 À propos de moi
+
+- 🎓 Étudiant en Bachelor Développeur d'Applications Python Full-Stack  
+- 🐍 J'apprends activement le **langage Python**, les **bases de données SQL**, et les **frameworks web comme Flask et Django**
+- 🌐 Je m'initie aussi au **développement front-end** (HTML, CSS, JS) et à l'intégration d'API
+- 🧠 Passionné par l’**intelligence artificielle**, l’**automatisation** et les **applications qui ont du sens**
+
+---
+
+### 🛠️ Compétences en cours d'acquisition
+
+- Python (programmation orientée objet, scripts, API)
+- SQL (MariaDB, MySQL, SQLite)
+- Git & GitHub (versionning, branches, pull requests)
+- HTML / CSS / JavaScript
+- Flask, Django (en cours)
+- Outils No Code & Low Code (Make, Bubble, etc.)
+- Méthodologies agiles (Scrum, Kanban)
+
+---
+
+### 🔍 En ce moment...
+
+- 📘 Je développe mes premiers projets (applications web, scripts d'automatisation, dashboard interactifs)
+- 🤝 Je cherche à **collaborer sur des projets open source** ou à **rejoindre des développeurs juniors** pour apprendre ensemble
+- 🌱 Je progresse chaque jour grâce à la pratique, la curiosité, et le partage de connaissances
+
+---
+
+### 📫 Contact
+
+- LinkedIn : [Mon profil LinkedIn](https://www.linkedin.com/in/guillaumemm/)
+- GitHub : Tu y es déjà 😉
+- Envie d’échanger ? Discutons ensemble de tech, de projets ou de Python autour d’un café virtuel ☕
+
+---
+
+### 💡 Citation qui m'inspire
+
+> "Là où il y a une volonté, il y a un chemin." – Proverbe persan  
+> *Et c’est ce chemin que j’ai décidé d’emprunter, un commit à la fois.*
+
+---
+
+⭐ Merci de visiter mon profil, n'hésite pas à me suivre pour suivre mes progrès !
