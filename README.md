@@ -1,12 +1,13 @@
 ## 👋 Salut et bienvenue sur mon GitHub !
 
-Je m'appelle Guillaume, je suis actuellement en formation pour devenir **Développeur d'Applications Python Full-Stack** chez [Studi](https://www.studi.com), avec une passion grandissante pour la **tech**, l'**innovation** et le **développement de solutions utiles et durables**.
+Je m'appelle Yashar alias Guillaume, j'ai réalisé en 2024 une licence (Bachelor) pour devenir **Développeur d'Applications Python Full-Stack** chez [Studi](https://www.studi.com), avec une passion grandissante pour la **tech**, l'**innovation** et le **développement de solutions utiles et durables**.
 
 ---
 
 ### 🚀 À propos de moi
 
-- 🎓 Étudiant en Bachelor Développeur d'Applications Python Full-Stack  
+- 🎓 2024/2025 Bachelor Développeur d'Applications Python Full-Stack
+- 2002 BTS Informatique de Gestion, option "Analyste programmeur"
 - 🐍 J'apprends activement le **langage Python**, les **bases de données SQL**, et les **frameworks web comme Flask et Django**
 - 🌐 Je m'initie aussi au **développement front-end** (HTML, CSS, JS) et à l'intégration d'API
 - 🧠 Passionné par l’**intelligence artificielle**, l’**automatisation** et les **applications qui ont du sens**
